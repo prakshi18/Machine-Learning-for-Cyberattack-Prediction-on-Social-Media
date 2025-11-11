@@ -6,7 +6,7 @@ The system analyzes user interactions, device details, authentication methods, a
 
 👥 Authors
 
-Group 8 — Goa Institute of Management
+Group 8 — 
 Prakshi Agrawal B2025034
 Radhika Agrawal B2025038
 Ishita Vyas B2025023
@@ -36,6 +36,7 @@ eda.ipynb	Exploratory Data Analysis (EDA) and visualization of dataset features.
 Final_EDA.ipynb	Final version of EDA with preprocessing steps.
 final model.ipynb	Model building, training, and evaluation notebook.
 main.ipynb	Integrated final pipeline including validation protocol, metrics, and results.
+
 ⚙️ Methodology
 
 Data Preprocessing:
